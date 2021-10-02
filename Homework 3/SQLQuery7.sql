@@ -1,0 +1,1 @@
+ALTER TABLE Tavern ADD FOREIGN KEY (LocationID) REFERENCES Locations(ID);
